@@ -1,5 +1,5 @@
-# Project Name
-Özyeğin University Lab & Artificial Department Introducer
+# Özyeğin University Lab & Artificial Department Introducer
+
 ## Description
 This project is a result of the summer highschool internship program at Özyeğin University. The project aims to introduce the Interactive Inteligent Systems Labarotory and the nwely found faculty of artifical intelligence in Özyeğin University to the new students. The project is a controller for the QT robot which allows it to listen to students and answer their questions or concerns regarding tot he Faculty and the Labarotory of Interactive Inteligent Systems. 
 
@@ -28,3 +28,4 @@ Run the following command to start the project the speak up.
 - [Atilla Altunbayrak](https://github.com/atialtunbayrak)
 - [Talha Efe Üstün](https://github.com/talhaefeustun)
 - [Efe Kayra]()
+- [Berkecan Koçyiğit](https://github.com/berkecankocyigit)
